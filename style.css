@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header, footer {
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 20px 0;
+}
+
+main {
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #007bff;
+}
+
+a {
+    color: #17a2b8;
+}
+
+.job h3 {
+    color: #6c757d;
+}
+
+ul {
+    list-style-type: none;
+}
